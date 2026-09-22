@@ -1,0 +1,34 @@
+# Python virtual environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Environment variables / secrets
+.env
+.env.*
+
+# IDE
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Large dataset archives
+*.zip
+
+# Trained ML models
+*.pth
+*.pt
+*.onnx
+*.onnx.data
+*.h5
+*.keras
+*.pkl
+*.joblib
+
+# Logs and temporary files
+*.log
+*.tmp
